@@ -1,5 +1,7 @@
 # UHR
-Personal portfolio
+Personal archieve
+
+24.12.18 openedge.tc interview
 
 24.12.31 NVDLA HW architectural specification reading start
 
